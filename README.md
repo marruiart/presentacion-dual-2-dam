@@ -13,9 +13,9 @@ Esta aplicación Android, desarrollada en Kotlin, permite la visualización de u
 
 ### 2. [BullsEye (Swift - iOS)](https://github.com/marruiart/BullsEye-iOS-UIKit.git)
 "BullsEye" es un juego interactivo desarrollado en Swift para dispositivos iOS. El objetivo del juego es acertar el número indicado ajustando la posición de un slider. 
-![Pantalla principal](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/26c39055-a4f0-4c4e-9b09-597244d186d6){ width=200px }
-![Pantalla de info](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/6bb9d81f-e59e-41b3-bf1d-a1ed614e7e5c){ width=200px }
-![Pantalla about me](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/3f1e91d3-be02-42e8-839e-2033439a70b5){ width=200px }
+<img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/26c39055-a4f0-4c4e-9b09-597244d186d6" alt="Pantalla principal" width="200"/>
+<img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/6bb9d81f-e59e-41b3-bf1d-a1ed614e7e5c" alt="Pantalla de info" width="200"/>
+<img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/3f1e91d3-be02-42e8-839e-2033439a70b5" alt="Pantalla about me" width="200"/>
 
 [Vídeo presentación de la aplicación BullsEye](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/646e44db-da23-4643-acc3-a9119b30a68e)
 
