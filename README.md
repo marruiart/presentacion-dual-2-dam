@@ -20,6 +20,7 @@ Esta aplicación Android, desarrollada en Kotlin, permite la visualización de u
 PitchPerfect es un modulador de voz. La aplicación permite a los usuarios grabar su voz y aplicar una variedad de efectos de modulación, como cambiar el tono o la velocidad de reproducción. 
 
 [Vídeo presentación de la aplicación PitchPerfect](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/e35cbb2f-c507-4b64-9c9e-ecd1c030216b)
+[Vídeo con audio](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/b7677f02-545d-4ad0-a208-44b553784be5)
 
 ## Presentación
 [Presentación Google Slides](https://docs.google.com/presentation/d/1JYg3PAPmWd1Sv3tM6FPoWqIY4Dx376uu0yZwg2nsS9I/edit?usp=sharing)
