@@ -13,6 +13,7 @@ Esta aplicación Android, desarrollada en Kotlin, permite la visualización de u
 
 ### 2. [BullsEye (Swift - iOS)](https://github.com/marruiart/BullsEye-iOS-UIKit.git)
 "BullsEye" es un juego interactivo desarrollado en Swift para dispositivos iOS. El objetivo del juego es acertar el número indicado ajustando la posición de un slider. 
+
 <img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/26c39055-a4f0-4c4e-9b09-597244d186d6" alt="Pantalla principal" width="350"/>
 <img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/6bb9d81f-e59e-41b3-bf1d-a1ed614e7e5c" alt="Pantalla de info" width="350"/>
 <img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/3f1e91d3-be02-42e8-839e-2033439a70b5" alt="Pantalla about me" width="350"/>
@@ -21,6 +22,7 @@ Esta aplicación Android, desarrollada en Kotlin, permite la visualización de u
 
 ### 3. [PitchPerfect (Swift - iOS)](https://github.com/marruiart/PitchPerfect-iOS-UIKit.git)
 PitchPerfect es un modulador de voz. La aplicación permite a los usuarios grabar su voz y aplicar una variedad de efectos de modulación, como cambiar el tono o la velocidad de reproducción. 
+
 <img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/31149738-1f1b-4269-a84c-1baacc9d22c2" alt="Pantalla de grabación" width="200"/>
 <img src="https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/d46aaf93-e732-455b-963d-4887c4bb5eba" alt="Pantalla de reproducción" width="200"/>
 
