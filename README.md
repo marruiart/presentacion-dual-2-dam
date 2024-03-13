@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En este repositorio se encuentran los resultados de las prácticas realizadas durante el periodo de prácticas duales de 2º curso de Desarrollo de Aplicaciones con Tecnologías Web. Estos proyectos han sido elaborados con el objetivo de aplicar los conocimientos adquiridos en el ciclo formativo, abarcando diversas áreas y plataformas.
+En este repositorio se encuentran los resultados de las prácticas realizadas durante el periodo de prácticas duales de 2º curso de Desarrollo de Aplicaciones Multiplataforma. Estos proyectos han sido elaborados con el objetivo de aplicar los conocimientos adquiridos en el ciclo formativo, abarcando diversas áreas y plataformas.
 
 ## Proyectos
 
