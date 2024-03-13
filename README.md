@@ -4,6 +4,14 @@
 
 En este repositorio se encuentran los resultados de las prácticas realizadas durante el periodo de prácticas duales de 2º curso de Desarrollo de Aplicaciones Multiplataforma. Estos proyectos han sido elaborados con el objetivo de aplicar los conocimientos adquiridos en el ciclo formativo, abarcando diversas áreas y plataformas.
 
+## Enlaces a la presentación
+
+[Presentación de la empresa - PDF](https://github.com/marruiart/presentacion-dual-2-dam/files/14587196/Presentacion_Viewnext_2023.pdf)
+
+[Presentación individual - Google Slides](https://docs.google.com/presentation/d/1JYg3PAPmWd1Sv3tM6FPoWqIY4Dx376uu0yZwg2nsS9I/edit?usp=sharing)
+
+[Presentación individual - PDF](https://github.com/marruiart/presentacion-dual-2-dam/files/14587142/Marina.Ruiz.-.ViewNext.pdf)
+
 ## Proyectos
 
 ### 1. [Facturas y Filtro (Kotlin - Android)](https://github.com/marruiart/facturas-kotlin.git)
@@ -37,8 +45,3 @@ PitchPerfect es un modulador de voz. La aplicación permite a los usuarios graba
 
 [Vídeo con audio](https://github.com/marruiart/presentacion-dual-2-dam/assets/88201067/b7677f02-545d-4ad0-a208-44b553784be5)
 
-## Presentación
-
-[Presentación Google Slides](https://docs.google.com/presentation/d/1JYg3PAPmWd1Sv3tM6FPoWqIY4Dx376uu0yZwg2nsS9I/edit?usp=sharing)
-
-[Presentación PDF]()
