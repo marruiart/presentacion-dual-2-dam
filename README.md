@@ -6,7 +6,7 @@ En este repositorio se encuentran los resultados de las prácticas realizadas du
 
 ## Enlaces a la presentación
 
-[Presentación de la empresa - PDF](https://github.com/marruiart/presentacion-dual-2-dam/files/14587196/Presentacion_Viewnext_2024.pdf)
+[Presentación de la empresa - PDF](https://github.com/marruiart/presentacion-dual-2-dam/files/14599023/Presentacion_Viewnext_2024.pdf)
 
 [Presentación individual - Google Slides](https://docs.google.com/presentation/d/1JYg3PAPmWd1Sv3tM6FPoWqIY4Dx376uu0yZwg2nsS9I/edit?usp=sharing)
 
